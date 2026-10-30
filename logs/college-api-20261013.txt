@@ -1,0 +1,689 @@
+2026-10-13 11:43:52.996 +05:30 [INF] Now listening on: http://localhost:5084
+2026-10-13 11:43:53.019 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2026-10-13 11:43:53.020 +05:30 [INF] Hosting environment: Development
+2026-10-13 11:43:53.020 +05:30 [INF] Content root path: C:\Users\user\Desktop\Assesment\CollegeCatlogAPI
+2026-10-13 11:46:17.730 +05:30 [INF] Application is shutting down...
+2026-10-13 11:46:28.627 +05:30 [INF] Now listening on: http://localhost:5084
+2026-10-13 11:46:28.649 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2026-10-13 11:46:28.649 +05:30 [INF] Hosting environment: Development
+2026-10-13 11:46:28.650 +05:30 [INF] Content root path: C:\Users\user\Desktop\Assesment\CollegeCatlogAPI
+2026-10-13 11:46:37.731 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5084/scalar/ - null null
+2026-10-13 11:46:37.759 +05:30 [WRN] Failed to determine the https port for redirect.
+2026-10-13 11:46:37.777 +05:30 [INF] Executing endpoint 'HTTP: GET /scalar/{documentName?}'
+2026-10-13 11:46:37.966 +05:30 [INF] Write content with HTTP Response ContentType of text/html
+2026-10-13 11:46:37.970 +05:30 [INF] Executed endpoint 'HTTP: GET /scalar/{documentName?}'
+2026-10-13 11:46:37.973 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5084/scalar/ - 200 622 text/html 277.618ms
+2026-10-13 11:46:37.992 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5084/scalar/scalar.js - null null
+2026-10-13 11:46:37.994 +05:30 [INF] Executing endpoint 'HTTP: GET /scalar/scalar.js'
+2026-10-13 11:46:37.994 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5084/scalar/scalar.aspnetcore.js - null null
+2026-10-13 11:46:37.995 +05:30 [INF] Executing endpoint 'HTTP: GET /scalar/scalar.aspnetcore.js'
+2026-10-13 11:46:37.998 +05:30 [INF] Sending file with download name ''.
+2026-10-13 11:46:38.003 +05:30 [INF] Sending file with download name ''.
+2026-10-13 11:46:38.003 +05:30 [INF] Executed endpoint 'HTTP: GET /scalar/scalar.js'
+2026-10-13 11:46:38.003 +05:30 [INF] Executed endpoint 'HTTP: GET /scalar/scalar.aspnetcore.js'
+2026-10-13 11:46:38.003 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5084/scalar/scalar.js - 304 null null 11.9244ms
+2026-10-13 11:46:38.003 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5084/scalar/scalar.aspnetcore.js - 304 null null 8.9759ms
+2026-10-13 11:46:38.066 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5084/openapi/v1.json - null null
+2026-10-13 11:46:38.068 +05:30 [INF] Executing endpoint 'HTTP: GET /openapi/{documentName}.json'
+2026-10-13 11:46:38.120 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5084/scalar/favicon.svg - null null
+2026-10-13 11:46:38.121 +05:30 [INF] Executing endpoint 'HTTP: GET /scalar/favicon.svg'
+2026-10-13 11:46:38.121 +05:30 [INF] Sending file with download name ''.
+2026-10-13 11:46:38.121 +05:30 [INF] Executed endpoint 'HTTP: GET /scalar/favicon.svg'
+2026-10-13 11:46:38.121 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5084/scalar/favicon.svg - 304 null null 1.0079ms
+2026-10-13 11:46:38.223 +05:30 [INF] Executed endpoint 'HTTP: GET /openapi/{documentName}.json'
+2026-10-13 11:46:38.223 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5084/openapi/v1.json - 200 null application/json;charset=utf-8 156.8547ms
+2026-10-13 11:46:49.032 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5084/scalar/ - null null
+2026-10-13 11:46:49.032 +05:30 [INF] Executing endpoint 'HTTP: GET /scalar/{documentName?}'
+2026-10-13 11:46:49.033 +05:30 [INF] Write content with HTTP Response ContentType of text/html
+2026-10-13 11:46:49.033 +05:30 [INF] Executed endpoint 'HTTP: GET /scalar/{documentName?}'
+2026-10-13 11:46:49.034 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5084/scalar/ - 200 622 text/html 1.4728ms
+2026-10-13 11:46:49.060 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5084/scalar/scalar.js - null null
+2026-10-13 11:46:49.061 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5084/scalar/scalar.aspnetcore.js - null null
+2026-10-13 11:46:49.061 +05:30 [INF] Executing endpoint 'HTTP: GET /scalar/scalar.js'
+2026-10-13 11:46:49.061 +05:30 [INF] Executing endpoint 'HTTP: GET /scalar/scalar.aspnetcore.js'
+2026-10-13 11:46:49.061 +05:30 [INF] Sending file with download name ''.
+2026-10-13 11:46:49.061 +05:30 [INF] Sending file with download name ''.
+2026-10-13 11:46:49.061 +05:30 [INF] Executed endpoint 'HTTP: GET /scalar/scalar.aspnetcore.js'
+2026-10-13 11:46:49.061 +05:30 [INF] Executed endpoint 'HTTP: GET /scalar/scalar.js'
+2026-10-13 11:46:49.061 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5084/scalar/scalar.js - 304 null null 0.5476ms
+2026-10-13 11:46:49.061 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5084/scalar/scalar.aspnetcore.js - 304 null null 0.4206ms
+2026-10-13 11:46:49.110 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5084/openapi/v1.json - null null
+2026-10-13 11:46:49.110 +05:30 [INF] Executing endpoint 'HTTP: GET /openapi/{documentName}.json'
+2026-10-13 11:46:49.115 +05:30 [INF] Executed endpoint 'HTTP: GET /openapi/{documentName}.json'
+2026-10-13 11:46:49.117 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5084/openapi/v1.json - 200 null application/json;charset=utf-8 6.7828ms
+2026-10-13 11:46:49.306 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5084/scalar/favicon.svg - null null
+2026-10-13 11:46:49.306 +05:30 [INF] Executing endpoint 'HTTP: GET /scalar/favicon.svg'
+2026-10-13 11:46:49.307 +05:30 [INF] Sending file with download name ''.
+2026-10-13 11:46:49.307 +05:30 [INF] Executed endpoint 'HTTP: GET /scalar/favicon.svg'
+2026-10-13 11:46:49.307 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5084/scalar/favicon.svg - 304 null null 1.191ms
+2026-10-13 11:46:52.994 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5084/api/College/GetAllColleges - null null
+2026-10-13 11:46:52.995 +05:30 [INF] Executing endpoint 'CollegeCatalog.API.Controllers.CollegeController.GetAllColleges (CollegeCatlogAPI)'
+2026-10-13 11:46:53.032 +05:30 [INF] Route matched with {action = "GetAllColleges", controller = "College"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetAllColleges() on controller CollegeCatalog.API.Controllers.CollegeController (CollegeCatlogAPI).
+2026-10-13 11:46:53.183 +05:30 [INF] Getting all colleges.
+2026-10-13 11:46:54.258 +05:30 [INF] Executed DbCommand (30ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [c].[Id], [c].[Name], [c].[Location], [c].[University]
+FROM [Colleges] AS [c]
+2026-10-13 11:46:54.281 +05:30 [INF] Successfully retrieved 2 colleges.
+2026-10-13 11:46:54.294 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CollegeCatalog.API.DTOs.CollegeDto, CollegeCatlogAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-10-13 11:46:54.311 +05:30 [INF] Executed action CollegeCatalog.API.Controllers.CollegeController.GetAllColleges (CollegeCatlogAPI) in 1274.5829ms
+2026-10-13 11:46:54.311 +05:30 [INF] Executed endpoint 'CollegeCatalog.API.Controllers.CollegeController.GetAllColleges (CollegeCatlogAPI)'
+2026-10-13 11:46:54.318 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5084/api/College/GetAllColleges - 200 null application/json; charset=utf-8 1324.0291ms
+2026-10-13 11:47:25.039 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5084/api/College - application/json 70
+2026-10-13 11:47:25.040 +05:30 [INF] Executing endpoint 'CollegeCatalog.API.Controllers.CollegeController.CreateCollege (CollegeCatlogAPI)'
+2026-10-13 11:47:25.053 +05:30 [INF] Route matched with {action = "CreateCollege", controller = "College"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CreateCollege(CollegeCatalog.API.DTOs.CollegeDto) on controller CollegeCatalog.API.Controllers.CollegeController (CollegeCatlogAPI).
+2026-10-13 11:47:25.080 +05:30 [INF] Creating college with name bannari.
+2026-10-13 11:47:25.266 +05:30 [INF] Executed DbCommand (16ms) [Parameters=[@p0='?' (Size = 4000), @p1='?' (Size = 4000), @p2='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [Colleges] ([Location], [Name], [University])
+OUTPUT INSERTED.[Id]
+VALUES (@p0, @p1, @p2);
+2026-10-13 11:47:25.287 +05:30 [INF] College created successfully with ID 4.
+2026-10-13 11:47:25.288 +05:30 [INF] Executing CreatedAtActionResult, writing value of type 'CollegeCatalog.API.DTOs.CollegeDto'.
+2026-10-13 11:47:25.299 +05:30 [INF] Executed action CollegeCatalog.API.Controllers.CollegeController.CreateCollege (CollegeCatlogAPI) in 245.7009ms
+2026-10-13 11:47:25.299 +05:30 [INF] Executed endpoint 'CollegeCatalog.API.Controllers.CollegeController.CreateCollege (CollegeCatlogAPI)'
+2026-10-13 11:47:25.299 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5084/api/College - 201 null application/json; charset=utf-8 260.4382ms
+2026-10-13 11:47:34.529 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5084/api/College/GetAllColleges - null null
+2026-10-13 11:47:34.530 +05:30 [INF] Executing endpoint 'CollegeCatalog.API.Controllers.CollegeController.GetAllColleges (CollegeCatlogAPI)'
+2026-10-13 11:47:34.530 +05:30 [INF] Route matched with {action = "GetAllColleges", controller = "College"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetAllColleges() on controller CollegeCatalog.API.Controllers.CollegeController (CollegeCatlogAPI).
+2026-10-13 11:47:34.533 +05:30 [INF] Getting all colleges.
+2026-10-13 11:47:34.635 +05:30 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [c].[Id], [c].[Name], [c].[Location], [c].[University]
+FROM [Colleges] AS [c]
+2026-10-13 11:47:34.635 +05:30 [INF] Successfully retrieved 3 colleges.
+2026-10-13 11:47:34.636 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CollegeCatalog.API.DTOs.CollegeDto, CollegeCatlogAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-10-13 11:47:34.636 +05:30 [INF] Executed action CollegeCatalog.API.Controllers.CollegeController.GetAllColleges (CollegeCatlogAPI) in 105.9458ms
+2026-10-13 11:47:34.636 +05:30 [INF] Executed endpoint 'CollegeCatalog.API.Controllers.CollegeController.GetAllColleges (CollegeCatlogAPI)'
+2026-10-13 11:47:34.636 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5084/api/College/GetAllColleges - 200 null application/json; charset=utf-8 106.7208ms
+2026-10-13 11:48:01.589 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5084/scalar/ - null null
+2026-10-13 11:48:01.589 +05:30 [INF] Executing endpoint 'HTTP: GET /scalar/{documentName?}'
+2026-10-13 11:48:01.590 +05:30 [INF] Write content with HTTP Response ContentType of text/html
+2026-10-13 11:48:01.590 +05:30 [INF] Executed endpoint 'HTTP: GET /scalar/{documentName?}'
+2026-10-13 11:48:01.590 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5084/scalar/ - 200 622 text/html 1.5788ms
+2026-10-13 11:48:01.611 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5084/scalar/scalar.js - null null
+2026-10-13 11:48:01.611 +05:30 [INF] Executing endpoint 'HTTP: GET /scalar/scalar.js'
+2026-10-13 11:48:01.611 +05:30 [INF] Sending file with download name ''.
+2026-10-13 11:48:01.611 +05:30 [INF] Executed endpoint 'HTTP: GET /scalar/scalar.js'
+2026-10-13 11:48:01.611 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5084/scalar/scalar.js - 304 null null 0.3568ms
+2026-10-13 11:48:01.615 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5084/scalar/scalar.aspnetcore.js - null null
+2026-10-13 11:48:01.616 +05:30 [INF] Executing endpoint 'HTTP: GET /scalar/scalar.aspnetcore.js'
+2026-10-13 11:48:01.616 +05:30 [INF] Sending file with download name ''.
+2026-10-13 11:48:01.616 +05:30 [INF] Executed endpoint 'HTTP: GET /scalar/scalar.aspnetcore.js'
+2026-10-13 11:48:01.616 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5084/scalar/scalar.aspnetcore.js - 304 null null 0.4516ms
+2026-10-13 11:48:01.653 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5084/openapi/v1.json - null null
+2026-10-13 11:48:01.653 +05:30 [INF] Executing endpoint 'HTTP: GET /openapi/{documentName}.json'
+2026-10-13 11:48:01.656 +05:30 [INF] Executed endpoint 'HTTP: GET /openapi/{documentName}.json'
+2026-10-13 11:48:01.656 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5084/openapi/v1.json - 200 null application/json;charset=utf-8 3.5257ms
+2026-10-13 11:48:01.780 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5084/scalar/favicon.svg - null null
+2026-10-13 11:48:01.780 +05:30 [INF] Executing endpoint 'HTTP: GET /scalar/favicon.svg'
+2026-10-13 11:48:01.780 +05:30 [INF] Sending file with download name ''.
+2026-10-13 11:48:01.781 +05:30 [INF] Executed endpoint 'HTTP: GET /scalar/favicon.svg'
+2026-10-13 11:48:01.781 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5084/scalar/favicon.svg - 304 null null 0.5538ms
+2026-10-13 11:54:29.819 +05:30 [INF] Application is shutting down...
+2026-10-13 11:54:36.897 +05:30 [INF] Now listening on: http://localhost:5084
+2026-10-13 11:54:36.923 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2026-10-13 11:54:36.923 +05:30 [INF] Hosting environment: Development
+2026-10-13 11:54:36.923 +05:30 [INF] Content root path: C:\Users\user\Desktop\Assesment\CollegeCatlogAPI
+2026-10-13 11:54:44.185 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5084/scalar/ - null null
+2026-10-13 11:54:44.210 +05:30 [WRN] Failed to determine the https port for redirect.
+2026-10-13 11:54:44.214 +05:30 [INF] Executing endpoint 'HTTP: GET /scalar/{documentName?}'
+2026-10-13 11:54:44.386 +05:30 [INF] Write content with HTTP Response ContentType of text/html
+2026-10-13 11:54:44.388 +05:30 [INF] Executed endpoint 'HTTP: GET /scalar/{documentName?}'
+2026-10-13 11:54:44.389 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5084/scalar/ - 200 622 text/html 204.7949ms
+2026-10-13 11:54:44.410 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5084/scalar/scalar.js - null null
+2026-10-13 11:54:44.410 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5084/scalar/scalar.aspnetcore.js - null null
+2026-10-13 11:54:44.412 +05:30 [INF] Executing endpoint 'HTTP: GET /scalar/scalar.aspnetcore.js'
+2026-10-13 11:54:44.412 +05:30 [INF] Executing endpoint 'HTTP: GET /scalar/scalar.js'
+2026-10-13 11:54:44.419 +05:30 [INF] Sending file with download name ''.
+2026-10-13 11:54:44.420 +05:30 [INF] Sending file with download name ''.
+2026-10-13 11:54:44.421 +05:30 [INF] Executed endpoint 'HTTP: GET /scalar/scalar.aspnetcore.js'
+2026-10-13 11:54:44.421 +05:30 [INF] Executed endpoint 'HTTP: GET /scalar/scalar.js'
+2026-10-13 11:54:44.421 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5084/scalar/scalar.aspnetcore.js - 304 null null 11.3413ms
+2026-10-13 11:54:44.421 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5084/scalar/scalar.js - 304 null null 11.3414ms
+2026-10-13 11:54:44.480 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5084/openapi/v1.json - null null
+2026-10-13 11:54:44.481 +05:30 [INF] Executing endpoint 'HTTP: GET /openapi/{documentName}.json'
+2026-10-13 11:54:44.527 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5084/scalar/favicon.svg - null null
+2026-10-13 11:54:44.528 +05:30 [INF] Executing endpoint 'HTTP: GET /scalar/favicon.svg'
+2026-10-13 11:54:44.529 +05:30 [INF] Sending file with download name ''.
+2026-10-13 11:54:44.529 +05:30 [INF] Executed endpoint 'HTTP: GET /scalar/favicon.svg'
+2026-10-13 11:54:44.529 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5084/scalar/favicon.svg - 304 null null 1.8683ms
+2026-10-13 11:54:44.633 +05:30 [INF] Executed endpoint 'HTTP: GET /openapi/{documentName}.json'
+2026-10-13 11:54:44.635 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5084/openapi/v1.json - 200 null application/json;charset=utf-8 154.4872ms
+2026-10-13 11:54:48.986 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5084/api/College/GetAllColleges - null null
+2026-10-13 11:54:48.986 +05:30 [INF] Executing endpoint 'CollegeCatalog.API.Controllers.CollegeController.GetAllColleges (CollegeCatlogAPI)'
+2026-10-13 11:54:49.011 +05:30 [INF] Route matched with {action = "GetAllColleges", controller = "College"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetAllColleges() on controller CollegeCatalog.API.Controllers.CollegeController (CollegeCatlogAPI).
+2026-10-13 11:54:49.125 +05:30 [INF] Getting all colleges.
+2026-10-13 11:54:50.111 +05:30 [INF] Executed DbCommand (27ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [c].[Id], [c].[Name], [c].[Location], [c].[University]
+FROM [Colleges] AS [c]
+2026-10-13 11:54:50.138 +05:30 [INF] Successfully retrieved 3 colleges.
+2026-10-13 11:54:50.145 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CollegeCatalog.API.DTOs.CollegeDto, CollegeCatlogAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-10-13 11:54:50.156 +05:30 [INF] Executed action CollegeCatalog.API.Controllers.CollegeController.GetAllColleges (CollegeCatlogAPI) in 1141.1441ms
+2026-10-13 11:54:50.157 +05:30 [INF] Executed endpoint 'CollegeCatalog.API.Controllers.CollegeController.GetAllColleges (CollegeCatlogAPI)'
+2026-10-13 11:54:50.167 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5084/api/College/GetAllColleges - 200 null application/json; charset=utf-8 1181.0772ms
+2026-10-13 11:54:57.222 +05:30 [INF] Application is shutting down...
+2026-10-13 11:55:27.895 +05:30 [INF] Now listening on: http://localhost:5084
+2026-10-13 11:55:27.918 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2026-10-13 11:55:27.919 +05:30 [INF] Hosting environment: Development
+2026-10-13 11:55:27.919 +05:30 [INF] Content root path: C:\Users\user\Desktop\Assesment\CollegeCatlogAPI
+2026-10-13 11:55:31.631 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5084/scalar/ - null null
+2026-10-13 11:55:31.658 +05:30 [WRN] Failed to determine the https port for redirect.
+2026-10-13 11:55:31.662 +05:30 [INF] Executing endpoint 'HTTP: GET /scalar/{documentName?}'
+2026-10-13 11:55:31.831 +05:30 [INF] Write content with HTTP Response ContentType of text/html
+2026-10-13 11:55:31.835 +05:30 [INF] Executed endpoint 'HTTP: GET /scalar/{documentName?}'
+2026-10-13 11:55:31.839 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5084/scalar/ - 200 622 text/html 208.9099ms
+2026-10-13 11:55:31.857 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5084/scalar/scalar.aspnetcore.js - null null
+2026-10-13 11:55:31.857 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5084/scalar/scalar.js - null null
+2026-10-13 11:55:31.858 +05:30 [INF] Executing endpoint 'HTTP: GET /scalar/scalar.aspnetcore.js'
+2026-10-13 11:55:31.858 +05:30 [INF] Executing endpoint 'HTTP: GET /scalar/scalar.js'
+2026-10-13 11:55:31.863 +05:30 [INF] Sending file with download name ''.
+2026-10-13 11:55:31.869 +05:30 [INF] Executed endpoint 'HTTP: GET /scalar/scalar.aspnetcore.js'
+2026-10-13 11:55:31.869 +05:30 [INF] Sending file with download name ''.
+2026-10-13 11:55:31.869 +05:30 [INF] Executed endpoint 'HTTP: GET /scalar/scalar.js'
+2026-10-13 11:55:31.869 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5084/scalar/scalar.aspnetcore.js - 304 null null 12.8736ms
+2026-10-13 11:55:31.869 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5084/scalar/scalar.js - 304 null null 12.9692ms
+2026-10-13 11:55:31.909 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5084/openapi/v1.json - null null
+2026-10-13 11:55:31.911 +05:30 [INF] Executing endpoint 'HTTP: GET /openapi/{documentName}.json'
+2026-10-13 11:55:31.948 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5084/scalar/favicon.svg - null null
+2026-10-13 11:55:31.949 +05:30 [INF] Executing endpoint 'HTTP: GET /scalar/favicon.svg'
+2026-10-13 11:55:31.950 +05:30 [INF] Sending file with download name ''.
+2026-10-13 11:55:31.950 +05:30 [INF] Executed endpoint 'HTTP: GET /scalar/favicon.svg'
+2026-10-13 11:55:31.950 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5084/scalar/favicon.svg - 304 null null 2.2599ms
+2026-10-13 11:55:32.072 +05:30 [INF] Executed endpoint 'HTTP: GET /openapi/{documentName}.json'
+2026-10-13 11:55:32.074 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5084/openapi/v1.json - 200 null application/json;charset=utf-8 164.9174ms
+2026-10-13 11:55:40.357 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5084/api/College/1 - null null
+2026-10-13 11:55:40.358 +05:30 [INF] Executing endpoint 'CollegeCatalog.API.Controllers.CollegeController.GetCollegeById (CollegeCatlogAPI)'
+2026-10-13 11:55:40.390 +05:30 [INF] Route matched with {action = "GetCollegeById", controller = "College"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetCollegeById(Int32) on controller CollegeCatalog.API.Controllers.CollegeController (CollegeCatlogAPI).
+2026-10-13 11:55:40.523 +05:30 [INF] Getting college with ID 1.
+2026-10-13 11:55:41.806 +05:30 [INF] Executed DbCommand (50ms) [Parameters=[@id='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [c].[Id], [c].[Location], [c].[Name], [c].[University]
+FROM [Colleges] AS [c]
+WHERE [c].[Id] = @id
+2026-10-13 11:55:41.899 +05:30 [INF] College with ID 1 retrieved successfully.
+2026-10-13 11:55:41.906 +05:30 [INF] Executing OkObjectResult, writing value of type 'CollegeCatalog.API.DTOs.CollegeDto'.
+2026-10-13 11:55:41.913 +05:30 [INF] Executed action CollegeCatalog.API.Controllers.CollegeController.GetCollegeById (CollegeCatlogAPI) in 1520.41ms
+2026-10-13 11:55:41.913 +05:30 [INF] Executed endpoint 'CollegeCatalog.API.Controllers.CollegeController.GetCollegeById (CollegeCatlogAPI)'
+2026-10-13 11:55:41.919 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5084/api/College/1 - 200 null application/json; charset=utf-8 1561.687ms
+2026-10-13 12:01:44.895 +05:30 [INF] Application is shutting down...
+2026-10-13 12:03:51.711 +05:30 [INF] Now listening on: http://localhost:5084
+2026-10-13 12:03:51.732 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2026-10-13 12:03:51.732 +05:30 [INF] Hosting environment: Development
+2026-10-13 12:03:51.732 +05:30 [INF] Content root path: C:\Users\user\Desktop\Assesment\CollegeCatlogAPI
+2026-10-13 12:03:56.319 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5084/scalar/ - null null
+2026-10-13 12:03:56.345 +05:30 [WRN] Failed to determine the https port for redirect.
+2026-10-13 12:03:56.349 +05:30 [INF] Executing endpoint 'HTTP: GET /scalar/{documentName?}'
+2026-10-13 12:03:56.530 +05:30 [INF] Write content with HTTP Response ContentType of text/html
+2026-10-13 12:03:56.532 +05:30 [INF] Executed endpoint 'HTTP: GET /scalar/{documentName?}'
+2026-10-13 12:03:56.534 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5084/scalar/ - 200 622 text/html 216.4799ms
+2026-10-13 12:03:56.553 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5084/scalar/scalar.aspnetcore.js - null null
+2026-10-13 12:03:56.553 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5084/scalar/scalar.js - null null
+2026-10-13 12:03:56.554 +05:30 [INF] Executing endpoint 'HTTP: GET /scalar/scalar.js'
+2026-10-13 12:03:56.554 +05:30 [INF] Executing endpoint 'HTTP: GET /scalar/scalar.aspnetcore.js'
+2026-10-13 12:03:56.558 +05:30 [INF] Sending file with download name ''.
+2026-10-13 12:03:56.561 +05:30 [INF] Sending file with download name ''.
+2026-10-13 12:03:56.561 +05:30 [INF] Executed endpoint 'HTTP: GET /scalar/scalar.aspnetcore.js'
+2026-10-13 12:03:56.561 +05:30 [INF] Executed endpoint 'HTTP: GET /scalar/scalar.js'
+2026-10-13 12:03:56.562 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5084/scalar/scalar.aspnetcore.js - 304 null null 8.9461ms
+2026-10-13 12:03:56.562 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5084/scalar/scalar.js - 304 null null 8.9467ms
+2026-10-13 12:03:56.620 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5084/openapi/v1.json - null null
+2026-10-13 12:03:56.621 +05:30 [INF] Executing endpoint 'HTTP: GET /openapi/{documentName}.json'
+2026-10-13 12:03:56.681 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5084/scalar/favicon.svg - null null
+2026-10-13 12:03:56.683 +05:30 [INF] Executing endpoint 'HTTP: GET /scalar/favicon.svg'
+2026-10-13 12:03:56.684 +05:30 [INF] Sending file with download name ''.
+2026-10-13 12:03:56.684 +05:30 [INF] Executed endpoint 'HTTP: GET /scalar/favicon.svg'
+2026-10-13 12:03:56.684 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5084/scalar/favicon.svg - 304 null null 2.8406ms
+2026-10-13 12:03:56.799 +05:30 [INF] Executed endpoint 'HTTP: GET /openapi/{documentName}.json'
+2026-10-13 12:03:56.802 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5084/openapi/v1.json - 200 null application/json;charset=utf-8 181.3448ms
+2026-10-13 12:04:24.877 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5084/api/College - application/json 67
+2026-10-13 12:04:24.877 +05:30 [INF] Executing endpoint 'CollegeCatalog.API.Controllers.CollegeController.CreateCollege (CollegeCatlogAPI)'
+2026-10-13 12:04:24.913 +05:30 [INF] Route matched with {action = "CreateCollege", controller = "College"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CreateCollege(CollegeCatalog.API.DTOs.CollegeDto) on controller CollegeCatalog.API.Controllers.CollegeController (CollegeCatlogAPI).
+2026-10-13 12:04:26.162 +05:30 [INF] Executed DbCommand (78ms) [Parameters=[@p0='?' (Size = 30), @p1='?' (Size = 40), @p2='?' (Size = 15)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [Colleges] ([Location], [Name], [University])
+OUTPUT INSERTED.[Id]
+VALUES (@p0, @p1, @p2);
+2026-10-13 12:04:26.241 +05:30 [INF] Executing CreatedAtActionResult, writing value of type 'CollegeCatalog.API.DTOs.CollegeDto'.
+2026-10-13 12:04:26.279 +05:30 [INF] Executed action CollegeCatalog.API.Controllers.CollegeController.CreateCollege (CollegeCatlogAPI) in 1359.837ms
+2026-10-13 12:04:26.279 +05:30 [INF] Executed endpoint 'CollegeCatalog.API.Controllers.CollegeController.CreateCollege (CollegeCatlogAPI)'
+2026-10-13 12:04:26.286 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5084/api/College - 201 null application/json; charset=utf-8 1409.5743ms
+2026-10-13 12:04:34.474 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5084/api/College/GetAllColleges - null null
+2026-10-13 12:04:34.474 +05:30 [INF] Executing endpoint 'CollegeCatalog.API.Controllers.CollegeController.GetAllColleges (CollegeCatlogAPI)'
+2026-10-13 12:04:34.485 +05:30 [INF] Route matched with {action = "GetAllColleges", controller = "College"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllColleges() on controller CollegeCatalog.API.Controllers.CollegeController (CollegeCatlogAPI).
+2026-10-13 12:04:34.848 +05:30 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [c].[Id], [c].[Name], [c].[Location], [c].[University]
+FROM [Colleges] AS [c]
+2026-10-13 12:04:34.854 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CollegeCatalog.API.DTOs.CollegeDto, CollegeCatlogAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-10-13 12:04:34.856 +05:30 [INF] Executed action CollegeCatalog.API.Controllers.CollegeController.GetAllColleges (CollegeCatlogAPI) in 371.0079ms
+2026-10-13 12:04:34.856 +05:30 [INF] Executed endpoint 'CollegeCatalog.API.Controllers.CollegeController.GetAllColleges (CollegeCatlogAPI)'
+2026-10-13 12:04:34.857 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5084/api/College/GetAllColleges - 200 null application/json; charset=utf-8 382.9332ms
+2026-10-13 12:08:52.523 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5084/api/College/GetAllColleges - null null
+2026-10-13 12:08:52.524 +05:30 [INF] Executing endpoint 'CollegeCatalog.API.Controllers.CollegeController.GetAllColleges (CollegeCatlogAPI)'
+2026-10-13 12:08:52.524 +05:30 [INF] Route matched with {action = "GetAllColleges", controller = "College"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllColleges() on controller CollegeCatalog.API.Controllers.CollegeController (CollegeCatlogAPI).
+2026-10-13 12:08:52.552 +05:30 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [c].[Id], [c].[Name], [c].[Location], [c].[University]
+FROM [Colleges] AS [c]
+2026-10-13 12:08:52.552 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CollegeCatalog.API.DTOs.CollegeDto, CollegeCatlogAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-10-13 12:08:52.552 +05:30 [INF] Executed action CollegeCatalog.API.Controllers.CollegeController.GetAllColleges (CollegeCatlogAPI) in 28.4378ms
+2026-10-13 12:08:52.552 +05:30 [INF] Executed endpoint 'CollegeCatalog.API.Controllers.CollegeController.GetAllColleges (CollegeCatlogAPI)'
+2026-10-13 12:08:52.552 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5084/api/College/GetAllColleges - 200 null application/json; charset=utf-8 29.3208ms
+2026-10-13 12:09:14.569 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5084/scalar/ - null null
+2026-10-13 12:09:14.569 +05:30 [INF] Executing endpoint 'HTTP: GET /scalar/{documentName?}'
+2026-10-13 12:09:14.570 +05:30 [INF] Write content with HTTP Response ContentType of text/html
+2026-10-13 12:09:14.571 +05:30 [INF] Executed endpoint 'HTTP: GET /scalar/{documentName?}'
+2026-10-13 12:09:14.571 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5084/scalar/ - 200 622 text/html 1.8354ms
+2026-10-13 12:09:14.592 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5084/scalar/scalar.js - null null
+2026-10-13 12:09:14.592 +05:30 [INF] Executing endpoint 'HTTP: GET /scalar/scalar.js'
+2026-10-13 12:09:14.592 +05:30 [INF] Sending file with download name ''.
+2026-10-13 12:09:14.592 +05:30 [INF] Executed endpoint 'HTTP: GET /scalar/scalar.js'
+2026-10-13 12:09:14.592 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5084/scalar/scalar.js - 304 null null 0.3311ms
+2026-10-13 12:09:14.598 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5084/scalar/scalar.aspnetcore.js - null null
+2026-10-13 12:09:14.598 +05:30 [INF] Executing endpoint 'HTTP: GET /scalar/scalar.aspnetcore.js'
+2026-10-13 12:09:14.598 +05:30 [INF] Sending file with download name ''.
+2026-10-13 12:09:14.598 +05:30 [INF] Executed endpoint 'HTTP: GET /scalar/scalar.aspnetcore.js'
+2026-10-13 12:09:14.598 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5084/scalar/scalar.aspnetcore.js - 304 null null 0.6491ms
+2026-10-13 12:09:14.661 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5084/openapi/v1.json - null null
+2026-10-13 12:09:14.662 +05:30 [INF] Executing endpoint 'HTTP: GET /openapi/{documentName}.json'
+2026-10-13 12:09:14.665 +05:30 [INF] Executed endpoint 'HTTP: GET /openapi/{documentName}.json'
+2026-10-13 12:09:14.666 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5084/openapi/v1.json - 200 null application/json;charset=utf-8 4.1518ms
+2026-10-13 12:09:14.914 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5084/scalar/favicon.svg - null null
+2026-10-13 12:09:14.914 +05:30 [INF] Executing endpoint 'HTTP: GET /scalar/favicon.svg'
+2026-10-13 12:09:14.914 +05:30 [INF] Sending file with download name ''.
+2026-10-13 12:09:14.914 +05:30 [INF] Executed endpoint 'HTTP: GET /scalar/favicon.svg'
+2026-10-13 12:09:14.914 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5084/scalar/favicon.svg - 304 null null 0.5748ms
+2026-10-13 12:09:18.853 +05:30 [INF] Application is shutting down...
+2026-10-13 12:09:27.504 +05:30 [INF] Now listening on: http://localhost:5084
+2026-10-13 12:09:27.526 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2026-10-13 12:09:27.526 +05:30 [INF] Hosting environment: Development
+2026-10-13 12:09:27.526 +05:30 [INF] Content root path: C:\Users\user\Desktop\Assesment\CollegeCatlogAPI
+2026-10-13 12:09:28.639 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5084/scalar/ - null null
+2026-10-13 12:09:28.656 +05:30 [WRN] Failed to determine the https port for redirect.
+2026-10-13 12:09:28.659 +05:30 [INF] Executing endpoint 'HTTP: GET /scalar/{documentName?}'
+2026-10-13 12:09:28.767 +05:30 [INF] Write content with HTTP Response ContentType of text/html
+2026-10-13 12:09:28.768 +05:30 [INF] Executed endpoint 'HTTP: GET /scalar/{documentName?}'
+2026-10-13 12:09:28.769 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5084/scalar/ - 200 622 text/html 131.3007ms
+2026-10-13 12:09:28.786 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5084/scalar/scalar.js - null null
+2026-10-13 12:09:28.787 +05:30 [INF] Executing endpoint 'HTTP: GET /scalar/scalar.js'
+2026-10-13 12:09:28.789 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5084/scalar/scalar.aspnetcore.js - null null
+2026-10-13 12:09:28.791 +05:30 [INF] Executing endpoint 'HTTP: GET /scalar/scalar.aspnetcore.js'
+2026-10-13 12:09:28.807 +05:30 [INF] Sending file with download name ''.
+2026-10-13 12:09:28.807 +05:30 [INF] Sending file with download name ''.
+2026-10-13 12:09:28.808 +05:30 [INF] Executed endpoint 'HTTP: GET /scalar/scalar.js'
+2026-10-13 12:09:28.808 +05:30 [INF] Executed endpoint 'HTTP: GET /scalar/scalar.aspnetcore.js'
+2026-10-13 12:09:28.809 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5084/scalar/scalar.js - 304 null null 22.8517ms
+2026-10-13 12:09:28.809 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5084/scalar/scalar.aspnetcore.js - 304 null null 19.5399ms
+2026-10-13 12:09:28.840 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5084/openapi/v1.json - null null
+2026-10-13 12:09:28.840 +05:30 [INF] Executing endpoint 'HTTP: GET /openapi/{documentName}.json'
+2026-10-13 12:09:28.875 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5084/scalar/favicon.svg - null null
+2026-10-13 12:09:28.875 +05:30 [INF] Executing endpoint 'HTTP: GET /scalar/favicon.svg'
+2026-10-13 12:09:28.875 +05:30 [INF] Sending file with download name ''.
+2026-10-13 12:09:28.875 +05:30 [INF] Executed endpoint 'HTTP: GET /scalar/favicon.svg'
+2026-10-13 12:09:28.876 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5084/scalar/favicon.svg - 304 null null 0.6988ms
+2026-10-13 12:09:28.967 +05:30 [INF] Executed endpoint 'HTTP: GET /openapi/{documentName}.json'
+2026-10-13 12:09:28.969 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5084/openapi/v1.json - 200 null application/json;charset=utf-8 128.5283ms
+2026-10-13 12:09:32.806 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5084/api/College/GetAllColleges - null null
+2026-10-13 12:09:32.807 +05:30 [INF] Executing endpoint 'CollegeCatalog.API.Controllers.CollegeController.GetAllColleges (CollegeCatlogAPI)'
+2026-10-13 12:09:32.835 +05:30 [INF] Route matched with {action = "GetAllColleges", controller = "College"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllColleges() on controller CollegeCatalog.API.Controllers.CollegeController (CollegeCatlogAPI).
+2026-10-13 12:09:34.115 +05:30 [INF] Executed DbCommand (64ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [c].[Id], [c].[Name], [c].[Location], [c].[University]
+FROM [Colleges] AS [c]
+2026-10-13 12:09:34.156 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CollegeCatalog.API.DTOs.CollegeDto, CollegeCatlogAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-10-13 12:09:34.169 +05:30 [INF] Executed action CollegeCatalog.API.Controllers.CollegeController.GetAllColleges (CollegeCatlogAPI) in 1330.9629ms
+2026-10-13 12:09:34.169 +05:30 [INF] Executed endpoint 'CollegeCatalog.API.Controllers.CollegeController.GetAllColleges (CollegeCatlogAPI)'
+2026-10-13 12:09:34.175 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5084/api/College/GetAllColleges - 200 null application/json; charset=utf-8 1369.1947ms
+2026-10-13 12:12:23.629 +05:30 [INF] Application is shutting down...
+2026-10-13 12:12:30.648 +05:30 [INF] Now listening on: http://localhost:5084
+2026-10-13 12:12:30.718 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2026-10-13 12:12:30.719 +05:30 [INF] Hosting environment: Development
+2026-10-13 12:12:30.719 +05:30 [INF] Content root path: C:\Users\user\Desktop\Assesment\CollegeCatlogAPI
+2026-10-13 12:12:31.792 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5084/scalar/ - null null
+2026-10-13 12:12:31.830 +05:30 [WRN] Failed to determine the https port for redirect.
+2026-10-13 12:12:31.835 +05:30 [INF] Executing endpoint 'HTTP: GET /scalar/{documentName?}'
+2026-10-13 12:12:32.039 +05:30 [INF] Write content with HTTP Response ContentType of text/html
+2026-10-13 12:12:32.042 +05:30 [INF] Executed endpoint 'HTTP: GET /scalar/{documentName?}'
+2026-10-13 12:12:32.044 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5084/scalar/ - 200 622 text/html 255.2927ms
+2026-10-13 12:12:32.074 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5084/scalar/scalar.js - null null
+2026-10-13 12:12:32.077 +05:30 [INF] Executing endpoint 'HTTP: GET /scalar/scalar.js'
+2026-10-13 12:12:32.087 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5084/scalar/scalar.aspnetcore.js - null null
+2026-10-13 12:12:32.090 +05:30 [INF] Executing endpoint 'HTTP: GET /scalar/scalar.aspnetcore.js'
+2026-10-13 12:12:32.099 +05:30 [INF] Sending file with download name ''.
+2026-10-13 12:12:32.099 +05:30 [INF] Sending file with download name ''.
+2026-10-13 12:12:32.101 +05:30 [INF] Executed endpoint 'HTTP: GET /scalar/scalar.aspnetcore.js'
+2026-10-13 12:12:32.101 +05:30 [INF] Executed endpoint 'HTTP: GET /scalar/scalar.js'
+2026-10-13 12:12:32.101 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5084/scalar/scalar.aspnetcore.js - 304 null null 14.4532ms
+2026-10-13 12:12:32.101 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5084/scalar/scalar.js - 304 null null 27.4887ms
+2026-10-13 12:12:32.741 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5084/openapi/v1.json - null null
+2026-10-13 12:12:32.742 +05:30 [INF] Executing endpoint 'HTTP: GET /openapi/{documentName}.json'
+2026-10-13 12:12:32.931 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5084/scalar/favicon.svg - null null
+2026-10-13 12:12:32.931 +05:30 [INF] Executing endpoint 'HTTP: GET /scalar/favicon.svg'
+2026-10-13 12:12:32.932 +05:30 [INF] Sending file with download name ''.
+2026-10-13 12:12:32.932 +05:30 [INF] Executed endpoint 'HTTP: GET /scalar/favicon.svg'
+2026-10-13 12:12:32.932 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5084/scalar/favicon.svg - 304 null null 1.1997ms
+2026-10-13 12:12:33.058 +05:30 [INF] Executed endpoint 'HTTP: GET /openapi/{documentName}.json'
+2026-10-13 12:12:33.059 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5084/openapi/v1.json - 200 null application/json;charset=utf-8 318.0235ms
+2026-10-13 12:12:36.527 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5084/api/College/GetAllColleges - null null
+2026-10-13 12:12:36.527 +05:30 [INF] Executing endpoint 'CollegeCatalog.API.Controllers.CollegeController.GetAllColleges (CollegeCatlogAPI)'
+2026-10-13 12:12:36.560 +05:30 [INF] Route matched with {action = "GetAllColleges", controller = "College"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllColleges() on controller CollegeCatalog.API.Controllers.CollegeController (CollegeCatlogAPI).
+2026-10-13 12:12:37.729 +05:30 [INF] Executed DbCommand (43ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [c].[Id], [c].[Name], [c].[Location], [c].[University]
+FROM [Colleges] AS [c]
+2026-10-13 12:12:37.792 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CollegeCatalog.API.DTOs.CollegeDto, CollegeCatlogAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-10-13 12:12:37.803 +05:30 [INF] Executed action CollegeCatalog.API.Controllers.CollegeController.GetAllColleges (CollegeCatlogAPI) in 1239.5076ms
+2026-10-13 12:12:37.803 +05:30 [INF] Executed endpoint 'CollegeCatalog.API.Controllers.CollegeController.GetAllColleges (CollegeCatlogAPI)'
+2026-10-13 12:12:37.809 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5084/api/College/GetAllColleges - 200 null application/json; charset=utf-8 1282.0765ms
+2026-10-13 12:12:55.836 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5084/api/College/3 - null null
+2026-10-13 12:12:55.836 +05:30 [INF] Executing endpoint 'CollegeCatalog.API.Controllers.CollegeController.GetCollegeById (CollegeCatlogAPI)'
+2026-10-13 12:12:55.853 +05:30 [INF] Route matched with {action = "GetCollegeById", controller = "College"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetCollegeById(Int32) on controller CollegeCatalog.API.Controllers.CollegeController (CollegeCatlogAPI).
+2026-10-13 12:12:56.014 +05:30 [INF] Executed DbCommand (14ms) [Parameters=[@id='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [c].[Id], [c].[Location], [c].[Name], [c].[University]
+FROM [Colleges] AS [c]
+WHERE [c].[Id] = @id
+2026-10-13 12:12:56.079 +05:30 [INF] Executing OkObjectResult, writing value of type 'CollegeCatalog.API.DTOs.CollegeDto'.
+2026-10-13 12:12:56.080 +05:30 [INF] Executed action CollegeCatalog.API.Controllers.CollegeController.GetCollegeById (CollegeCatlogAPI) in 226.416ms
+2026-10-13 12:12:56.080 +05:30 [INF] Executed endpoint 'CollegeCatalog.API.Controllers.CollegeController.GetCollegeById (CollegeCatlogAPI)'
+2026-10-13 12:12:56.080 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5084/api/College/3 - 200 null application/json; charset=utf-8 244.1444ms
+2026-10-13 12:22:33.271 +05:30 [INF] Application is shutting down...
+2026-10-13 12:26:39.458 +05:30 [INF] Now listening on: http://localhost:5084
+2026-10-13 12:26:39.487 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2026-10-13 12:26:39.488 +05:30 [INF] Hosting environment: Development
+2026-10-13 12:26:39.488 +05:30 [INF] Content root path: C:\Users\user\Desktop\Assesment\CollegeCatlogAPI
+2026-10-13 12:26:54.662 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5084/api/College/GetAllColleges - null null
+2026-10-13 12:26:54.689 +05:30 [WRN] Failed to determine the https port for redirect.
+2026-10-13 12:26:54.690 +05:30 [INF] CORS policy execution successful.
+2026-10-13 12:26:54.693 +05:30 [INF] Executing endpoint 'CollegeCatalog.API.Controllers.CollegeController.GetAllColleges (CollegeCatlogAPI)'
+2026-10-13 12:26:54.710 +05:30 [INF] Route matched with {action = "GetAllColleges", controller = "College"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllColleges() on controller CollegeCatalog.API.Controllers.CollegeController (CollegeCatlogAPI).
+2026-10-13 12:26:56.015 +05:30 [INF] Executed DbCommand (57ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [c].[Id], [c].[Name], [c].[Location], [c].[University]
+FROM [Colleges] AS [c]
+2026-10-13 12:26:56.059 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CollegeCatalog.API.DTOs.CollegeDto, CollegeCatlogAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-10-13 12:26:56.084 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5084/api/College/GetAllColleges - null null
+2026-10-13 12:26:56.087 +05:30 [INF] Executed action CollegeCatalog.API.Controllers.CollegeController.GetAllColleges (CollegeCatlogAPI) in 1370.8699ms
+2026-10-13 12:26:56.088 +05:30 [INF] CORS policy execution successful.
+2026-10-13 12:26:56.089 +05:30 [INF] Executing endpoint 'CollegeCatalog.API.Controllers.CollegeController.GetAllColleges (CollegeCatlogAPI)'
+2026-10-13 12:26:56.090 +05:30 [INF] Executed endpoint 'CollegeCatalog.API.Controllers.CollegeController.GetAllColleges (CollegeCatlogAPI)'
+2026-10-13 12:26:56.090 +05:30 [INF] Route matched with {action = "GetAllColleges", controller = "College"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllColleges() on controller CollegeCatalog.API.Controllers.CollegeController (CollegeCatlogAPI).
+2026-10-13 12:26:56.094 +05:30 [INF] HTTP GET /api/College/GetAllColleges responded 200 in 1404.2281 ms
+2026-10-13 12:26:56.105 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5084/api/College/GetAllColleges - 200 null application/json; charset=utf-8 1445.5333ms
+2026-10-13 12:26:56.134 +05:30 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [c].[Id], [c].[Name], [c].[Location], [c].[University]
+FROM [Colleges] AS [c]
+2026-10-13 12:26:56.135 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CollegeCatalog.API.DTOs.CollegeDto, CollegeCatlogAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-10-13 12:26:56.136 +05:30 [INF] Executed action CollegeCatalog.API.Controllers.CollegeController.GetAllColleges (CollegeCatlogAPI) in 45.9687ms
+2026-10-13 12:26:56.136 +05:30 [INF] Executed endpoint 'CollegeCatalog.API.Controllers.CollegeController.GetAllColleges (CollegeCatlogAPI)'
+2026-10-13 12:26:56.136 +05:30 [INF] HTTP GET /api/College/GetAllColleges responded 200 in 48.4429 ms
+2026-10-13 12:26:56.137 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5084/api/College/GetAllColleges - 200 null application/json; charset=utf-8 53.2011ms
+2026-10-13 12:26:56.633 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5084/api/College/GetAllColleges - null null
+2026-10-13 12:26:56.635 +05:30 [INF] CORS policy execution successful.
+2026-10-13 12:26:56.635 +05:30 [INF] Executing endpoint 'CollegeCatalog.API.Controllers.CollegeController.GetAllColleges (CollegeCatlogAPI)'
+2026-10-13 12:26:56.635 +05:30 [INF] Route matched with {action = "GetAllColleges", controller = "College"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllColleges() on controller CollegeCatalog.API.Controllers.CollegeController (CollegeCatlogAPI).
+2026-10-13 12:26:56.737 +05:30 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [c].[Id], [c].[Name], [c].[Location], [c].[University]
+FROM [Colleges] AS [c]
+2026-10-13 12:26:56.738 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CollegeCatalog.API.DTOs.CollegeDto, CollegeCatlogAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-10-13 12:26:56.738 +05:30 [INF] Executed action CollegeCatalog.API.Controllers.CollegeController.GetAllColleges (CollegeCatlogAPI) in 102.7108ms
+2026-10-13 12:26:56.738 +05:30 [INF] Executed endpoint 'CollegeCatalog.API.Controllers.CollegeController.GetAllColleges (CollegeCatlogAPI)'
+2026-10-13 12:26:56.738 +05:30 [INF] HTTP GET /api/College/GetAllColleges responded 200 in 103.7984 ms
+2026-10-13 12:26:56.738 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5084/api/College/GetAllColleges - 200 null application/json; charset=utf-8 104.8577ms
+2026-10-13 12:26:59.900 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5084/api/College/GetAllColleges - null null
+2026-10-13 12:26:59.901 +05:30 [INF] CORS policy execution successful.
+2026-10-13 12:26:59.901 +05:30 [INF] Executing endpoint 'CollegeCatalog.API.Controllers.CollegeController.GetAllColleges (CollegeCatlogAPI)'
+2026-10-13 12:26:59.901 +05:30 [INF] Route matched with {action = "GetAllColleges", controller = "College"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllColleges() on controller CollegeCatalog.API.Controllers.CollegeController (CollegeCatlogAPI).
+2026-10-13 12:26:59.911 +05:30 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [c].[Id], [c].[Name], [c].[Location], [c].[University]
+FROM [Colleges] AS [c]
+2026-10-13 12:26:59.912 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CollegeCatalog.API.DTOs.CollegeDto, CollegeCatlogAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-10-13 12:26:59.913 +05:30 [INF] Executed action CollegeCatalog.API.Controllers.CollegeController.GetAllColleges (CollegeCatlogAPI) in 11.5061ms
+2026-10-13 12:26:59.913 +05:30 [INF] Executed endpoint 'CollegeCatalog.API.Controllers.CollegeController.GetAllColleges (CollegeCatlogAPI)'
+2026-10-13 12:26:59.913 +05:30 [INF] HTTP GET /api/College/GetAllColleges responded 200 in 12.4494 ms
+2026-10-13 12:26:59.913 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5084/api/College/GetAllColleges - 200 null application/json; charset=utf-8 13.3803ms
+2026-10-13 12:29:39.768 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5084/api/College/GetAllColleges - null null
+2026-10-13 12:29:39.768 +05:30 [INF] CORS policy execution successful.
+2026-10-13 12:29:39.768 +05:30 [INF] Executing endpoint 'CollegeCatalog.API.Controllers.CollegeController.GetAllColleges (CollegeCatlogAPI)'
+2026-10-13 12:29:39.768 +05:30 [INF] Route matched with {action = "GetAllColleges", controller = "College"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllColleges() on controller CollegeCatalog.API.Controllers.CollegeController (CollegeCatlogAPI).
+2026-10-13 12:29:39.771 +05:30 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [c].[Id], [c].[Name], [c].[Location], [c].[University]
+FROM [Colleges] AS [c]
+2026-10-13 12:29:39.772 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CollegeCatalog.API.DTOs.CollegeDto, CollegeCatlogAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-10-13 12:29:39.772 +05:30 [INF] Executed action CollegeCatalog.API.Controllers.CollegeController.GetAllColleges (CollegeCatlogAPI) in 3.9214ms
+2026-10-13 12:29:39.772 +05:30 [INF] Executed endpoint 'CollegeCatalog.API.Controllers.CollegeController.GetAllColleges (CollegeCatlogAPI)'
+2026-10-13 12:29:39.772 +05:30 [INF] HTTP GET /api/College/GetAllColleges responded 200 in 4.2082 ms
+2026-10-13 12:29:39.772 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5084/api/College/GetAllColleges - 200 null application/json; charset=utf-8 4.5187ms
+2026-10-13 12:30:28.908 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5084/api/College/GetAllColleges - null null
+2026-10-13 12:30:28.909 +05:30 [INF] CORS policy execution successful.
+2026-10-13 12:30:28.909 +05:30 [INF] Executing endpoint 'CollegeCatalog.API.Controllers.CollegeController.GetAllColleges (CollegeCatlogAPI)'
+2026-10-13 12:30:28.909 +05:30 [INF] Route matched with {action = "GetAllColleges", controller = "College"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllColleges() on controller CollegeCatalog.API.Controllers.CollegeController (CollegeCatlogAPI).
+2026-10-13 12:30:28.919 +05:30 [INF] Executed DbCommand (8ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [c].[Id], [c].[Name], [c].[Location], [c].[University]
+FROM [Colleges] AS [c]
+2026-10-13 12:30:28.919 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CollegeCatalog.API.DTOs.CollegeDto, CollegeCatlogAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-10-13 12:30:28.920 +05:30 [INF] Executed action CollegeCatalog.API.Controllers.CollegeController.GetAllColleges (CollegeCatlogAPI) in 10.6797ms
+2026-10-13 12:30:28.920 +05:30 [INF] Executed endpoint 'CollegeCatalog.API.Controllers.CollegeController.GetAllColleges (CollegeCatlogAPI)'
+2026-10-13 12:30:28.920 +05:30 [INF] HTTP GET /api/College/GetAllColleges responded 200 in 11.1465 ms
+2026-10-13 12:30:28.920 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5084/api/College/GetAllColleges - 200 null application/json; charset=utf-8 11.5882ms
+2026-10-13 12:38:45.404 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5084/api/College/GetAllColleges - null null
+2026-10-13 12:38:45.404 +05:30 [INF] CORS policy execution successful.
+2026-10-13 12:38:45.404 +05:30 [INF] Executing endpoint 'CollegeCatalog.API.Controllers.CollegeController.GetAllColleges (CollegeCatlogAPI)'
+2026-10-13 12:38:45.405 +05:30 [INF] Route matched with {action = "GetAllColleges", controller = "College"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllColleges() on controller CollegeCatalog.API.Controllers.CollegeController (CollegeCatlogAPI).
+2026-10-13 12:38:45.415 +05:30 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [c].[Id], [c].[Name], [c].[Location], [c].[University]
+FROM [Colleges] AS [c]
+2026-10-13 12:38:45.415 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CollegeCatalog.API.DTOs.CollegeDto, CollegeCatlogAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-10-13 12:38:45.415 +05:30 [INF] Executed action CollegeCatalog.API.Controllers.CollegeController.GetAllColleges (CollegeCatlogAPI) in 10.8123ms
+2026-10-13 12:38:45.415 +05:30 [INF] Executed endpoint 'CollegeCatalog.API.Controllers.CollegeController.GetAllColleges (CollegeCatlogAPI)'
+2026-10-13 12:38:45.415 +05:30 [INF] HTTP GET /api/College/GetAllColleges responded 200 in 11.1299 ms
+2026-10-13 12:38:45.416 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5084/api/College/GetAllColleges - 200 null application/json; charset=utf-8 11.4876ms
+2026-10-13 12:39:00.709 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5084/api/College/GetAllColleges - null null
+2026-10-13 12:39:00.709 +05:30 [INF] CORS policy execution successful.
+2026-10-13 12:39:00.709 +05:30 [INF] Executing endpoint 'CollegeCatalog.API.Controllers.CollegeController.GetAllColleges (CollegeCatlogAPI)'
+2026-10-13 12:39:00.710 +05:30 [INF] Route matched with {action = "GetAllColleges", controller = "College"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllColleges() on controller CollegeCatalog.API.Controllers.CollegeController (CollegeCatlogAPI).
+2026-10-13 12:39:00.713 +05:30 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [c].[Id], [c].[Name], [c].[Location], [c].[University]
+FROM [Colleges] AS [c]
+2026-10-13 12:39:00.713 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CollegeCatalog.API.DTOs.CollegeDto, CollegeCatlogAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-10-13 12:39:00.713 +05:30 [INF] Executed action CollegeCatalog.API.Controllers.CollegeController.GetAllColleges (CollegeCatlogAPI) in 3.5138ms
+2026-10-13 12:39:00.713 +05:30 [INF] Executed endpoint 'CollegeCatalog.API.Controllers.CollegeController.GetAllColleges (CollegeCatlogAPI)'
+2026-10-13 12:39:00.713 +05:30 [INF] HTTP GET /api/College/GetAllColleges responded 200 in 3.8167 ms
+2026-10-13 12:39:00.713 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5084/api/College/GetAllColleges - 200 null application/json; charset=utf-8 4.1191ms
+2026-10-13 12:39:22.398 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5084/api/College/GetAllColleges - null null
+2026-10-13 12:39:22.398 +05:30 [INF] CORS policy execution successful.
+2026-10-13 12:39:22.398 +05:30 [INF] Executing endpoint 'CollegeCatalog.API.Controllers.CollegeController.GetAllColleges (CollegeCatlogAPI)'
+2026-10-13 12:39:22.399 +05:30 [INF] Route matched with {action = "GetAllColleges", controller = "College"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllColleges() on controller CollegeCatalog.API.Controllers.CollegeController (CollegeCatlogAPI).
+2026-10-13 12:39:22.406 +05:30 [INF] Executed DbCommand (5ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [c].[Id], [c].[Name], [c].[Location], [c].[University]
+FROM [Colleges] AS [c]
+2026-10-13 12:39:22.406 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CollegeCatalog.API.DTOs.CollegeDto, CollegeCatlogAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-10-13 12:39:22.407 +05:30 [INF] Executed action CollegeCatalog.API.Controllers.CollegeController.GetAllColleges (CollegeCatlogAPI) in 7.9351ms
+2026-10-13 12:39:22.407 +05:30 [INF] Executed endpoint 'CollegeCatalog.API.Controllers.CollegeController.GetAllColleges (CollegeCatlogAPI)'
+2026-10-13 12:39:22.407 +05:30 [INF] HTTP GET /api/College/GetAllColleges responded 200 in 8.4962 ms
+2026-10-13 12:39:22.407 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5084/api/College/GetAllColleges - 200 null application/json; charset=utf-8 8.9779ms
+2026-10-13 12:39:32.377 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5084/api/College/GetAllColleges - null null
+2026-10-13 12:39:32.377 +05:30 [INF] CORS policy execution successful.
+2026-10-13 12:39:32.377 +05:30 [INF] Executing endpoint 'CollegeCatalog.API.Controllers.CollegeController.GetAllColleges (CollegeCatlogAPI)'
+2026-10-13 12:39:32.377 +05:30 [INF] Route matched with {action = "GetAllColleges", controller = "College"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllColleges() on controller CollegeCatalog.API.Controllers.CollegeController (CollegeCatlogAPI).
+2026-10-13 12:39:32.379 +05:30 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [c].[Id], [c].[Name], [c].[Location], [c].[University]
+FROM [Colleges] AS [c]
+2026-10-13 12:39:32.379 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CollegeCatalog.API.DTOs.CollegeDto, CollegeCatlogAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-10-13 12:39:32.379 +05:30 [INF] Executed action CollegeCatalog.API.Controllers.CollegeController.GetAllColleges (CollegeCatlogAPI) in 1.7469ms
+2026-10-13 12:39:32.379 +05:30 [INF] Executed endpoint 'CollegeCatalog.API.Controllers.CollegeController.GetAllColleges (CollegeCatlogAPI)'
+2026-10-13 12:39:32.379 +05:30 [INF] HTTP GET /api/College/GetAllColleges responded 200 in 1.9594 ms
+2026-10-13 12:39:32.379 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5084/api/College/GetAllColleges - 200 null application/json; charset=utf-8 2.1965ms
+2026-10-13 12:40:08.598 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5084/api/College/GetAllColleges - null null
+2026-10-13 12:40:08.598 +05:30 [INF] CORS policy execution successful.
+2026-10-13 12:40:08.598 +05:30 [INF] Executing endpoint 'CollegeCatalog.API.Controllers.CollegeController.GetAllColleges (CollegeCatlogAPI)'
+2026-10-13 12:40:08.598 +05:30 [INF] Route matched with {action = "GetAllColleges", controller = "College"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllColleges() on controller CollegeCatalog.API.Controllers.CollegeController (CollegeCatlogAPI).
+2026-10-13 12:40:08.601 +05:30 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [c].[Id], [c].[Name], [c].[Location], [c].[University]
+FROM [Colleges] AS [c]
+2026-10-13 12:40:08.601 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CollegeCatalog.API.DTOs.CollegeDto, CollegeCatlogAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-10-13 12:40:08.602 +05:30 [INF] Executed action CollegeCatalog.API.Controllers.CollegeController.GetAllColleges (CollegeCatlogAPI) in 3.3745ms
+2026-10-13 12:40:08.602 +05:30 [INF] Executed endpoint 'CollegeCatalog.API.Controllers.CollegeController.GetAllColleges (CollegeCatlogAPI)'
+2026-10-13 12:40:08.602 +05:30 [INF] HTTP GET /api/College/GetAllColleges responded 200 in 3.7566 ms
+2026-10-13 12:40:08.602 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5084/api/College/GetAllColleges - 200 null application/json; charset=utf-8 4.0797ms
+2026-10-13 12:43:55.016 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5084/api/College/GetAllColleges - null null
+2026-10-13 12:43:55.016 +05:30 [INF] CORS policy execution successful.
+2026-10-13 12:43:55.017 +05:30 [INF] Executing endpoint 'CollegeCatalog.API.Controllers.CollegeController.GetAllColleges (CollegeCatlogAPI)'
+2026-10-13 12:43:55.017 +05:30 [INF] Route matched with {action = "GetAllColleges", controller = "College"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllColleges() on controller CollegeCatalog.API.Controllers.CollegeController (CollegeCatlogAPI).
+2026-10-13 12:43:55.019 +05:30 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [c].[Id], [c].[Name], [c].[Location], [c].[University]
+FROM [Colleges] AS [c]
+2026-10-13 12:43:55.019 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CollegeCatalog.API.DTOs.CollegeDto, CollegeCatlogAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-10-13 12:43:55.020 +05:30 [INF] Executed action CollegeCatalog.API.Controllers.CollegeController.GetAllColleges (CollegeCatlogAPI) in 2.8988ms
+2026-10-13 12:43:55.020 +05:30 [INF] Executed endpoint 'CollegeCatalog.API.Controllers.CollegeController.GetAllColleges (CollegeCatlogAPI)'
+2026-10-13 12:43:55.020 +05:30 [INF] HTTP GET /api/College/GetAllColleges responded 200 in 3.1291 ms
+2026-10-13 12:43:55.020 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5084/api/College/GetAllColleges - 200 null application/json; charset=utf-8 3.3641ms
+2026-10-13 12:48:57.504 +05:30 [INF] Request starting HTTP/1.1 OPTIONS http://localhost:5084/api/College - null null
+2026-10-13 12:48:57.504 +05:30 [INF] CORS policy execution successful.
+2026-10-13 12:48:57.505 +05:30 [INF] HTTP OPTIONS /api/College responded 204 in 0.9039 ms
+2026-10-13 12:48:57.505 +05:30 [INF] Request finished HTTP/1.1 OPTIONS http://localhost:5084/api/College - 204 null null 1.2981ms
+2026-10-13 12:48:57.507 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5084/api/College - application/json 51
+2026-10-13 12:48:57.508 +05:30 [INF] CORS policy execution successful.
+2026-10-13 12:48:57.508 +05:30 [INF] Executing endpoint 'CollegeCatalog.API.Controllers.CollegeController.CreateCollege (CollegeCatlogAPI)'
+2026-10-13 12:48:57.519 +05:30 [INF] Route matched with {action = "CreateCollege", controller = "College"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CreateCollege(CollegeCatalog.API.DTOs.CollegeDto) on controller CollegeCatalog.API.Controllers.CollegeController (CollegeCatlogAPI).
+2026-10-13 12:48:57.705 +05:30 [INF] Executed DbCommand (16ms) [Parameters=[@p0='?' (Size = 30), @p1='?' (Size = 40), @p2='?' (Size = 15)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [Colleges] ([Location], [Name], [University])
+OUTPUT INSERTED.[Id]
+VALUES (@p0, @p1, @p2);
+2026-10-13 12:48:57.726 +05:30 [INF] Executing CreatedAtActionResult, writing value of type 'CollegeCatalog.API.DTOs.CollegeDto'.
+2026-10-13 12:48:57.741 +05:30 [INF] Executed action CollegeCatalog.API.Controllers.CollegeController.CreateCollege (CollegeCatlogAPI) in 221.267ms
+2026-10-13 12:48:57.741 +05:30 [INF] Executed endpoint 'CollegeCatalog.API.Controllers.CollegeController.CreateCollege (CollegeCatlogAPI)'
+2026-10-13 12:48:57.741 +05:30 [INF] HTTP POST /api/College responded 201 in 233.2099 ms
+2026-10-13 12:48:57.741 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5084/api/College - 201 null application/json; charset=utf-8 233.6091ms
+2026-10-13 12:48:59.726 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5084/api/College/GetAllColleges - null null
+2026-10-13 12:48:59.726 +05:30 [INF] CORS policy execution successful.
+2026-10-13 12:48:59.726 +05:30 [INF] Executing endpoint 'CollegeCatalog.API.Controllers.CollegeController.GetAllColleges (CollegeCatlogAPI)'
+2026-10-13 12:48:59.726 +05:30 [INF] Route matched with {action = "GetAllColleges", controller = "College"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllColleges() on controller CollegeCatalog.API.Controllers.CollegeController (CollegeCatlogAPI).
+2026-10-13 12:48:59.730 +05:30 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [c].[Id], [c].[Name], [c].[Location], [c].[University]
+FROM [Colleges] AS [c]
+2026-10-13 12:48:59.730 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CollegeCatalog.API.DTOs.CollegeDto, CollegeCatlogAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-10-13 12:48:59.730 +05:30 [INF] Executed action CollegeCatalog.API.Controllers.CollegeController.GetAllColleges (CollegeCatlogAPI) in 3.6479ms
+2026-10-13 12:48:59.730 +05:30 [INF] Executed endpoint 'CollegeCatalog.API.Controllers.CollegeController.GetAllColleges (CollegeCatlogAPI)'
+2026-10-13 12:48:59.730 +05:30 [INF] HTTP GET /api/College/GetAllColleges responded 200 in 4.0076 ms
+2026-10-13 12:48:59.730 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5084/api/College/GetAllColleges - 200 null application/json; charset=utf-8 4.3144ms
+2026-10-13 12:49:10.602 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5084/api/College/GetAllColleges - null null
+2026-10-13 12:49:10.602 +05:30 [INF] CORS policy execution successful.
+2026-10-13 12:49:10.602 +05:30 [INF] Executing endpoint 'CollegeCatalog.API.Controllers.CollegeController.GetAllColleges (CollegeCatlogAPI)'
+2026-10-13 12:49:10.602 +05:30 [INF] Route matched with {action = "GetAllColleges", controller = "College"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllColleges() on controller CollegeCatalog.API.Controllers.CollegeController (CollegeCatlogAPI).
+2026-10-13 12:49:10.607 +05:30 [INF] Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [c].[Id], [c].[Name], [c].[Location], [c].[University]
+FROM [Colleges] AS [c]
+2026-10-13 12:49:10.608 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CollegeCatalog.API.DTOs.CollegeDto, CollegeCatlogAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-10-13 12:49:10.608 +05:30 [INF] Executed action CollegeCatalog.API.Controllers.CollegeController.GetAllColleges (CollegeCatlogAPI) in 5.9271ms
+2026-10-13 12:49:10.608 +05:30 [INF] Executed endpoint 'CollegeCatalog.API.Controllers.CollegeController.GetAllColleges (CollegeCatlogAPI)'
+2026-10-13 12:49:10.608 +05:30 [INF] HTTP GET /api/College/GetAllColleges responded 200 in 6.3974 ms
+2026-10-13 12:49:10.609 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5084/api/College/GetAllColleges - 200 null application/json; charset=utf-8 6.9705ms
+2026-10-13 12:49:38.984 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5084/api/College/GetAllColleges - null null
+2026-10-13 12:49:38.984 +05:30 [INF] CORS policy execution successful.
+2026-10-13 12:49:38.984 +05:30 [INF] Executing endpoint 'CollegeCatalog.API.Controllers.CollegeController.GetAllColleges (CollegeCatlogAPI)'
+2026-10-13 12:49:38.984 +05:30 [INF] Route matched with {action = "GetAllColleges", controller = "College"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllColleges() on controller CollegeCatalog.API.Controllers.CollegeController (CollegeCatlogAPI).
+2026-10-13 12:49:38.986 +05:30 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [c].[Id], [c].[Name], [c].[Location], [c].[University]
+FROM [Colleges] AS [c]
+2026-10-13 12:49:38.987 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CollegeCatalog.API.DTOs.CollegeDto, CollegeCatlogAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-10-13 12:49:38.987 +05:30 [INF] Executed action CollegeCatalog.API.Controllers.CollegeController.GetAllColleges (CollegeCatlogAPI) in 2.6079ms
+2026-10-13 12:49:38.987 +05:30 [INF] Executed endpoint 'CollegeCatalog.API.Controllers.CollegeController.GetAllColleges (CollegeCatlogAPI)'
+2026-10-13 12:49:38.987 +05:30 [INF] HTTP GET /api/College/GetAllColleges responded 200 in 2.9687 ms
+2026-10-13 12:49:38.987 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5084/api/College/GetAllColleges - 200 null application/json; charset=utf-8 3.2367ms
+2026-10-13 12:53:54.884 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5084/scalar/ - null null
+2026-10-13 12:53:54.884 +05:30 [INF] Executing endpoint 'HTTP: GET /scalar/{documentName?}'
+2026-10-13 12:53:55.273 +05:30 [INF] Write content with HTTP Response ContentType of text/html
+2026-10-13 12:53:55.273 +05:30 [INF] Executed endpoint 'HTTP: GET /scalar/{documentName?}'
+2026-10-13 12:53:55.273 +05:30 [INF] HTTP GET /scalar/ responded 200 in 389.3142 ms
+2026-10-13 12:53:55.273 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5084/scalar/ - 200 622 text/html 389.6299ms
+2026-10-13 12:53:55.301 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5084/scalar/scalar.js - null null
+2026-10-13 12:53:55.302 +05:30 [INF] Executing endpoint 'HTTP: GET /scalar/scalar.js'
+2026-10-13 12:53:55.302 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5084/scalar/scalar.aspnetcore.js - null null
+2026-10-13 12:53:55.302 +05:30 [INF] CORS policy execution successful.
+2026-10-13 12:53:55.302 +05:30 [INF] Executing endpoint 'HTTP: GET /scalar/scalar.aspnetcore.js'
+2026-10-13 12:53:55.313 +05:30 [INF] Sending file with download name ''.
+2026-10-13 12:53:55.322 +05:30 [INF] Sending file with download name ''.
+2026-10-13 12:53:55.322 +05:30 [INF] Executed endpoint 'HTTP: GET /scalar/scalar.aspnetcore.js'
+2026-10-13 12:53:55.322 +05:30 [INF] Executed endpoint 'HTTP: GET /scalar/scalar.js'
+2026-10-13 12:53:55.322 +05:30 [INF] HTTP GET /scalar/scalar.aspnetcore.js responded 304 in 20.2145 ms
+2026-10-13 12:53:55.322 +05:30 [INF] HTTP GET /scalar/scalar.js responded 304 in 20.6015 ms
+2026-10-13 12:53:55.322 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5084/scalar/scalar.aspnetcore.js - 304 null null 20.6243ms
+2026-10-13 12:53:55.322 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5084/scalar/scalar.js - 304 null null 20.9921ms
+2026-10-13 12:53:55.730 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5084/openapi/v1.json - null null
+2026-10-13 12:53:55.731 +05:30 [INF] Executing endpoint 'HTTP: GET /openapi/{documentName}.json'
+2026-10-13 12:53:55.766 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5084/scalar/favicon.svg - null null
+2026-10-13 12:53:55.769 +05:30 [INF] Executing endpoint 'HTTP: GET /scalar/favicon.svg'
+2026-10-13 12:53:55.770 +05:30 [INF] Sending file with download name ''.
+2026-10-13 12:53:55.770 +05:30 [INF] Executed endpoint 'HTTP: GET /scalar/favicon.svg'
+2026-10-13 12:53:55.770 +05:30 [INF] HTTP GET /scalar/favicon.svg responded 304 in 0.7659 ms
+2026-10-13 12:53:55.770 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5084/scalar/favicon.svg - 304 null null 4.2295ms
+2026-10-13 12:53:56.057 +05:30 [INF] Executed endpoint 'HTTP: GET /openapi/{documentName}.json'
+2026-10-13 12:53:56.057 +05:30 [INF] HTTP GET /openapi/v1.json responded 200 in 325.7988 ms
+2026-10-13 12:53:56.057 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5084/openapi/v1.json - 200 null application/json;charset=utf-8 326.8316ms
+2026-10-13 12:54:04.792 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5084/api/College/GetAllColleges - null null
+2026-10-13 12:54:04.792 +05:30 [INF] Executing endpoint 'CollegeCatalog.API.Controllers.CollegeController.GetAllColleges (CollegeCatlogAPI)'
+2026-10-13 12:54:04.792 +05:30 [INF] Route matched with {action = "GetAllColleges", controller = "College"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllColleges() on controller CollegeCatalog.API.Controllers.CollegeController (CollegeCatlogAPI).
+2026-10-13 12:54:04.808 +05:30 [INF] Executed DbCommand (5ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [c].[Id], [c].[Name], [c].[Location], [c].[University]
+FROM [Colleges] AS [c]
+2026-10-13 12:54:04.809 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CollegeCatalog.API.DTOs.CollegeDto, CollegeCatlogAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-10-13 12:54:04.809 +05:30 [INF] Executed action CollegeCatalog.API.Controllers.CollegeController.GetAllColleges (CollegeCatlogAPI) in 16.3071ms
+2026-10-13 12:54:04.809 +05:30 [INF] Executed endpoint 'CollegeCatalog.API.Controllers.CollegeController.GetAllColleges (CollegeCatlogAPI)'
+2026-10-13 12:54:04.809 +05:30 [INF] HTTP GET /api/College/GetAllColleges responded 200 in 17.0742 ms
+2026-10-13 12:54:04.809 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5084/api/College/GetAllColleges - 200 null application/json; charset=utf-8 17.7125ms
+2026-10-13 12:55:55.937 +05:30 [INF] Application is shutting down...
+2026-10-13 12:57:05.960 +05:30 [INF] Executed DbCommand (15ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2026-10-13 12:57:05.991 +05:30 [INF] Acquiring an exclusive lock for migration application. See https://aka.ms/efcore-docs-migrations-lock for more information if this takes too long.
+2026-10-13 12:57:06.037 +05:30 [INF] Executed DbCommand (42ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+DECLARE @result int;
+EXEC @result = sp_getapplock @Resource = '__EFMigrationsLock', @LockOwner = 'Session', @LockMode = 'Exclusive';
+SELECT @result
+2026-10-13 12:57:06.133 +05:30 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+IF OBJECT_ID(N'[__EFMigrationsHistory]') IS NULL
+BEGIN
+    CREATE TABLE [__EFMigrationsHistory] (
+        [MigrationId] nvarchar(150) NOT NULL,
+        [ProductVersion] nvarchar(32) NOT NULL,
+        CONSTRAINT [PK___EFMigrationsHistory] PRIMARY KEY ([MigrationId])
+    );
+END;
+2026-10-13 12:57:06.144 +05:30 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2026-10-13 12:57:06.145 +05:30 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2026-10-13 12:57:06.158 +05:30 [INF] Executed DbCommand (11ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+2026-10-13 12:57:06.170 +05:30 [INF] Applying migration '20261013072653_updatedAnotherFeild'.
+2026-10-13 12:57:06.316 +05:30 [INF] Executed DbCommand (133ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+DECLARE @var nvarchar(max);
+SELECT @var = QUOTENAME([d].[name])
+FROM [sys].[default_constraints] [d]
+INNER JOIN [sys].[columns] [c] ON [d].[parent_column_id] = [c].[column_id] AND [d].[parent_object_id] = [c].[object_id]
+WHERE ([d].[parent_object_id] = OBJECT_ID(N'[Colleges]') AND [c].[name] = N'University');
+IF @var IS NOT NULL EXEC(N'ALTER TABLE [Colleges] DROP CONSTRAINT ' + @var + ';');
+ALTER TABLE [Colleges] ALTER COLUMN [University] nvarchar(15) NOT NULL;
+2026-10-13 12:57:06.353 +05:30 [INF] Executed DbCommand (37ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+DECLARE @var1 nvarchar(max);
+SELECT @var1 = QUOTENAME([d].[name])
+FROM [sys].[default_constraints] [d]
+INNER JOIN [sys].[columns] [c] ON [d].[parent_column_id] = [c].[column_id] AND [d].[parent_object_id] = [c].[object_id]
+WHERE ([d].[parent_object_id] = OBJECT_ID(N'[Colleges]') AND [c].[name] = N'Name');
+IF @var1 IS NOT NULL EXEC(N'ALTER TABLE [Colleges] DROP CONSTRAINT ' + @var1 + ';');
+ALTER TABLE [Colleges] ALTER COLUMN [Name] nvarchar(40) NOT NULL;
+2026-10-13 12:57:06.392 +05:30 [INF] Executed DbCommand (39ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+DECLARE @var2 nvarchar(max);
+SELECT @var2 = QUOTENAME([d].[name])
+FROM [sys].[default_constraints] [d]
+INNER JOIN [sys].[columns] [c] ON [d].[parent_column_id] = [c].[column_id] AND [d].[parent_object_id] = [c].[object_id]
+WHERE ([d].[parent_object_id] = OBJECT_ID(N'[Colleges]') AND [c].[name] = N'Location');
+IF @var2 IS NOT NULL EXEC(N'ALTER TABLE [Colleges] DROP CONSTRAINT ' + @var2 + ';');
+ALTER TABLE [Colleges] ALTER COLUMN [Location] nvarchar(30) NOT NULL;
+2026-10-13 12:57:06.402 +05:30 [INF] Executed DbCommand (9ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+ALTER TABLE [Colleges] ADD [NumberOfStudent] int NOT NULL DEFAULT 0;
+2026-10-13 12:57:06.405 +05:30 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO [__EFMigrationsHistory] ([MigrationId], [ProductVersion])
+VALUES (N'20261013072653_updatedAnotherFeild', N'10.0.12');
+2026-10-13 12:57:06.414 +05:30 [INF] Executed DbCommand (5ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+DECLARE @result int;
+EXEC @result = sp_releaseapplock @Resource = '__EFMigrationsLock', @LockOwner = 'Session';
+SELECT @result

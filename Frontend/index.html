@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>College Catalog</title>
+
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+</head>
+
+<body>
+
+    <h1>College Catalog</h1>
+
+    <h2>Add College</h2>
+
+    <form id="collegeForm">
+
+        <label>College Name:</label>
+        <input type="text" id="collegeName" required>
+
+        <br><br>
+
+        <label>Location:</label>
+        <input type="text" id="collegeLocation" required>
+
+        <br><br>
+
+        <label>University:</label>
+        <input type="text" id="collegeUniversity" required>
+
+        <br><br>
+
+        <button type="submit">Add College</button>
+
+    </form>
+
+    <br>
+
+    <button id="getColleges">Show Colleges</button>
+
+    <h2>College List</h2>
+
+    <table border="1">
+
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Location</th>
+                <th>University</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+
+        <tbody id="collegeList">
+        </tbody>
+
+    </table>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
